@@ -1,0 +1,120 @@
+body{/*background-color: #7897AB;*/
+  text-align: center;
+  font-family:verdana,sans-serif;
+}
+h1{font-family: 'Neonderthaw', cursive;
+padding:20px 20px;}
+/*.middle-container{
+top:50px;
+position: relative;}*/
+h1{margin:0;
+margin:0 auto;
+width:300px;
+top:300px;
+color:#66BFBF;
+line-height: 2em;
+}
+h2{font-size: 2rem;
+  font-family: 'Roboto Slab', serif;;
+  color:#66BFBF;
+  font-weight: normal;
+  /*text-align: left;*/
+  margin:auto;
+line-height: 2em;
+padding:20px;
+}
+a{color:#11999E;}
+h3{color:#11999E;
+/*  text-align: left;*/
+  margin:auto;
+  line-height: 2em;
+}
+p{/*text-align: left;*/
+line-height: 2;
+/*margin-left: 40%;*/
+}
+hr{ border-top: 5px dotted lightGrey ;
+width:15%;
+margin:100px auto;}
+/*class*/
+a{text-decoration: none;}
+a:hover{color:#30e3cb ;}
+.head1{ padding:50px 50px;
+font-size:2.5rem;}
+/*p{background-color: #7897AB;
+position:relative;
+left:200px;}*/
+
+/*********************selector class**/
+/*.pro{text-decoration: overline;
+}*/
+.top-container{position:relative;
+padding:30px 30px;
+background-color: #EAF6F6;}
+.cloud1{
+position:relative;
+left: 250px;
+}
+/*.middle-container{
+  margin:auto;
+}*/
+.cloud2{
+position:absolute;
+margin-bottom: 3000px;
+left:400px;
+}
+.glass_guy{border-radius: 150px;
+width:20%;
+background-color: red;
+}
+.mountain{
+padding: 100px 100px;}
+.middle-container{/*border-radius: 100px;
+height:150px;*/
+
+  /*margin:auto;*/
+  padding:100px 0 100px 0;
+  /*text-align: left;*/
+}
+.profile
+{
+margin:0 auto 0 auto:}
+
+.bottom-container{text-align: center;
+background-color: #66BFBF}
+.sporting{border-radius: 100px;
+  width:20%;
+float:left;
+
+padding: 20px;
+}
+.skill1{width:20%;
+float:right;
+padding: 20px;
+}
+.skill-row{  text-align: left;
+margin:auto;
+width:50%;}
+.cont_img{width:15%;
+float:right;}
+.contact-me{
+  margin:100px 100px;
+  text-align:center;
+}
+.head_ch{
+line-height: 2;
+margin:auto;}
+.contact{
+  color:white;
+font-family:verdana,sans-serif;
+border-radius: 8px;
+width:12%;
+background-image: linear-gradient(#11cdd4,#11999e);
+:hover{
+  background-image: linear-gradient(#30e3cb,#2bc4ad);
+}
+}
+.footer-link{color:white;
+text-align: center;
+margin:0 10px 0 10px;
+}
